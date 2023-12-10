@@ -20,7 +20,7 @@ clean_data = clean_data.rename(columns={'name_y': 'race_name', 'name_x': 'constr
 clean_data = clean_data.sort_values(by='year')
 
 
-# Kuvage ja salvestage tulemus
+# testing
 print(clean_data.head(20))
 
 clean_data.to_csv('clean_data.csv', index=False)
