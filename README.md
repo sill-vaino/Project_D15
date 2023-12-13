@@ -18,10 +18,12 @@ If you prefer not to go through this process, pre-processed datasets named "clea
 
 This is the main code containing the model that successfully solves the originally stated problem in the project. When you run the program, it will return the prediction results for each decade as a string, along with the actual results (who actually won).
 
+## For the code to work, make sure that all datasets and code snippets are in the same folder! ##
+
 
 ## Output when everything is done correctly: ##
 
-![Alt tekst](./expectedOutput.png)
+![Prediction](./expectedOutput.png)
 
 
 
