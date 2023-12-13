@@ -21,6 +21,10 @@ This is the main code containing the model that successfully solves the original
 
 ## Output when everything is done correctly: ##
 
+![Alt tekst](./expectedOutput.png)
+
+
+
 
 
 
