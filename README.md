@@ -21,7 +21,7 @@ This is the main code containing the model that successfully solves the original
 
 ## Output when everything is done correctly: ##
 
-![image](https://github.com/sill-vaino/Project_D15/assets/73522648/4f827a4a-ec05-4b43-b600-21871d77ca97)
+
 
 
 
