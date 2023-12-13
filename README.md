@@ -1,2 +1,13 @@
 # Project_D15
-Patterns of Excellence: Formula 1 Dataset Analysis and Prediction of Constructors' Winners in the Next 10  Years"
+Formula 1 Winners Prediction Over Seven Decades.
+
+
+## Goal: The aim of this project is to create a model capable of predicting the Formula 1 winner across seven different decades. PLEASE NOTE! The project goal has changed in the meantime. ##
+
+
+
+
+
+
+
+
