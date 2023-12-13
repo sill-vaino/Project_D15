@@ -19,6 +19,12 @@ If you prefer not to go through this process, pre-processed datasets named "clea
 This is the main code containing the model that successfully solves the originally stated problem in the project. When you run the program, it will return the prediction results for each decade as a string, along with the actual results (who actually won).
 
 
+## Output when everything is done correctly: ##
+
+![image](https://github.com/sill-vaino/Project_D15/assets/73522648/4f827a4a-ec05-4b43-b600-21871d77ca97)
+
+
+
 
 
 
