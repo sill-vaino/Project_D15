@@ -3,7 +3,7 @@
 
 
 ## Goal: The aim of this project is to create a model capable of predicting the Formula 1 winner across seven different decades. PLEASE NOTE! The project goal has changed in the meantime. ##
-### Previous Goal: Divide the dataset into three parts and predict the winner three times -> ## NEW GOAL ## Divide the dataset into seven decades and then predict the potential winners based on the data and the model in sync. ###
+### Previous Goal: Divide the dataset into three parts and predict the winner three times ->  ##NEW GOAL## Divide the dataset into seven decades and then predict the potential winners based on the data and the model in sync. ###
 
 All data processing scripts, namely "relations.py," "data_cleaning.py," and "data_separation.py," are provided. Follow these steps:
 
