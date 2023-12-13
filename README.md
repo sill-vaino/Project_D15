@@ -14,7 +14,8 @@ All data processing scripts, namely "relations.py," "data_cleaning.py," and "dat
 
 If you prefer not to go through this process, pre-processed datasets named "cleaned_data_period_1-10.csv" are also available.
 
-###If you want to display predictions on your machine, copy the code from "model_trainingAnd_Predicting.py." ###
+### If you want to display predictions on your machine, copy the code from "model_trainingAnd_Predicting.py." ###
+
 This is the main code containing the model that successfully solves the originally stated problem in the project. When you run the program, it will return the prediction results for each decade as a string, along with the actual results (who actually won).
 
 
